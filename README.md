@@ -2,12 +2,15 @@
 
 ## 📌 Project Overview
 
-This project presents an interactive **HR Workforce Analytics Dashboard** developed in Power BI to analyze employee demographics, hiring activity, attrition, job satisfaction, work-life balance, and compensation trends.
-The dashboard provides a consolidated view of key workforce metrics and helps transform HR data into clear, actionable business insights.
+This project presents an interactive **HR Workforce Analytics Dashboard** developed in Power BI to analyze employee demographics, hiring activity, attrition, job satisfaction, work-life balance, and compensation trends. The dashboard provides a consolidated view of key workforce metrics and helps transform HR data into clear, actionable business insights.
+
+---
 
 ## 📊 Dashboard Preview
 
 ![Dashboard Preview](Image/HR-Workforce-Analytics-PowerBI.png)
+
+---
 
 ## 🎯 Project Objectives
 
@@ -78,6 +81,8 @@ The dashboard includes interactive slicers for:
 
 These filters allow users to explore workforce metrics across different employee segments.
 
+---
+
 ## 🛠️ Tools & Technologies
 
 - 📊 **Power BI Desktop**
@@ -114,6 +119,8 @@ The dashboard follows a clean and professional corporate design with:
 - 🔵 Scatter plots for compensation analysis
 - 🎛️ Interactive slicers for workforce segmentation
 
+---
+
 ## ❓ Business Questions Addressed
 
 This dashboard helps explore several important HR questions:
@@ -129,6 +136,8 @@ This dashboard helps explore several important HR questions:
 9. ⚖️ How is work-life balance distributed across employees?
 10. 💰 How do salaries vary with tenure and total working experience?
 
+---
+
 ## 🎯 Project Goal
 
 The goal of this project was to transform HR workforce data into an **interactive and business-focused Power BI dashboard** that enables easier monitoring and analysis of:
@@ -137,5 +146,7 @@ The goal of this project was to transform HR workforce data into an **interactiv
 
 This project demonstrates how Power BI can be used to turn workforce data into meaningful visual insights for data-driven HR analysis.
 
-## 👤 Author
- Rafijul Islam
+---
+
+## Auther
+Rafijul Islam
