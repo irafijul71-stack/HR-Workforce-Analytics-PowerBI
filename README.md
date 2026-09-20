@@ -7,7 +7,7 @@ The dashboard provides a consolidated view of key workforce metrics and helps tr
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Image/HR_Workforce_Analytics_Dashboard.png)
+![Dashboard Preview](Image/HR-Workforce-Analytics-PowerBI.png)
 
 ## 🎯 Project Objectives
 
